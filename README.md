@@ -19,6 +19,9 @@
 
 <p>Aqui está uma imagem de como a página de login aparece:</p>
 
+![image](https://github.com/user-attachments/assets/954b925e-e3d1-46c3-8825-e8688e43cac1)
+
+
 ## _Melhorias Futuras_
 
 <li>Conectar a um backend para autenticação real.</li>
